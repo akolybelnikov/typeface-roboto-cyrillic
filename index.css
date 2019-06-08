@@ -23,16 +23,16 @@
 }
 
 @font-face {
-    font-family: 'Roboto';
-    font-display: swap;
-    font-style: normal;
-    font-weight: bolder;
-    src: local('Roboto Medium '), local('Roboto-Medium'),
-      url('./files/RobotoMedium.eot');
-    src: url('./files/RobotoMedium.eot?#iefix') format('embedded-opentype'),
-      url('./files/RobotoMedium.woff') format('woff'),
-      url('./files/RobotoMedium.ttf') format('truetype');
-  }
+  font-family: 'Roboto';
+  font-display: swap;
+  font-style: normal;
+  font-weight: bolder;
+  src: local('Roboto Medium '), local('Roboto-Medium'),
+    url('./files/RobotoMedium.eot');
+  src: url('./files/RobotoMedium.eot?#iefix') format('embedded-opentype'),
+    url('./files/RobotoMedium.woff') format('woff'),
+    url('./files/RobotoMedium.ttf') format('truetype');
+}
 
 @font-face {
   font-family: 'Roboto';
