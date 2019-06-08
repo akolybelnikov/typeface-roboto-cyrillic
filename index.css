@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Roboto';
+  font-display: swap;
+  font-style: normal;
+  font-weight: lighter;
+  src: local('Roboto Light '), local('Roboto-Light'),
+    url('./files/RobotoLight.eot');
+  src: url('./files/RobotoLight.eot?#iefix') format('embedded-opentype'),
+    url('./files/RobotoLight.woff') format('woff'),
+    url('./files/RobotoLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-display: swap;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Roboto Regular '), local('Roboto-Regular'),
+    url('./files/RobotoRegular.eot');
+  src: url('./files/RobotoRegular.eot?#iefix') format('embedded-opentype'),
+    url('./files/RobotoRegular.woff') format('woff'),
+    url('./files/RobotoRegular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-display: swap;
+    font-style: normal;
+    font-weight: bolder;
+    src: local('Roboto Medium '), local('Roboto-Medium'),
+      url('./files/RobotoMedium.eot');
+    src: url('./files/RobotoMedium.eot?#iefix') format('embedded-opentype'),
+      url('./files/RobotoMedium.woff') format('woff'),
+      url('./files/RobotoMedium.ttf') format('truetype');
+  }
+
+@font-face {
+  font-family: 'Roboto';
+  font-display: swap;
+  font-style: normal;
+  font-weight: bold;
+  src: local('Roboto Bold '), local('Roboto-Bold'),
+    url('./files/RobotoBold.eot');
+  src: url('./files/RobotoBold.eot?#iefix') format('embedded-opentype'),
+    url('./files/RobotoBold.woff') format('woff'),
+    url('./files/RobotoBold.ttf') format('truetype');
+}
