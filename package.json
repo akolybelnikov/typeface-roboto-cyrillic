@@ -1,6 +1,6 @@
 {
   "name": "typeface-roboto-cyrillic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Roboto typeface for cyrillic characters",
   "main": "index.css",
   "keywords": [
